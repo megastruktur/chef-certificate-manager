@@ -1,4 +1,4 @@
-# certificate_manager
+# Certificate Manager cookbook for your Chef
 
 ## NOTE: This cookbook is Linux-only, has several commands which are executed as shell script.
 
